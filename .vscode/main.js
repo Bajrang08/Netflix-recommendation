@@ -3,6 +3,7 @@
 //  @ts-check
 //  API: https://code.visualstudio.com/api/references/vscode-api
 
+/** @param {any} _context */
 function activate(_context) {
    window.showInformationMessage('Hello, World!');
 }
